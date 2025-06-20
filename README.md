@@ -16,18 +16,11 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 👨‍💻 All of my projects are available at [https://github.com/shawkat221](https://github.com/shawkat221)
 
-- 📝 I regularly write articles on [https://www.learnwithtutul.xyz/](https://www.learnwithtutul.xyz/)
-
-- 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
-
-- 📫 How to reach me **programmershawkat221@gmail.com**
-
-- 📄 All About Me:[https://lnk.bio/shawkat221](https://lnk.bio/shawkat221)
+- 📫 How to reach me **shawkathasan221@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="center">
-<a href="https://fb.com/shawkat221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shawkat221" height="30" width="40" /></a>
+<a href="https://www.facebook.com/shawkat131" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shawkat221" height="30" width="40" /></a>
 <a href="https://twitter.com/shawkat221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shawkat221" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shawkat221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shawkat221" height="30" width="40" /></a>
 <a href="https://codepen.io/shawkat221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shawkat221" height="30" width="40" /></a>

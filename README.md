@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm SHAWKAT HASAN </h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
 
 <div align="center">
 
